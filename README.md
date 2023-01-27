@@ -1,23 +1,34 @@
 # Project Title
 
-API PARA AUTENTICACIÓN DE USUARIOS LARAVEL-SANCTUM
+API RESTFUL FOR USERS AUTHENTICATIONS LARAVEL9-SANCTUM
++
+CRUD SUPPLIERS
 
 # Project Description
 
-API PARA AUTENTICACIÓN DE USUARIOS METODOS (register, login, user-profile, logout)
+API FOR USERS AUTHENTICATIONS METHODS (register, login, user-profile, logout)
++
+CRUD SUPPLIERS
 
 # Screenshot
 
 ![](public/assets/img/register.png)
-![](public/assets/img/login.png)
+![](public/assets/img/login-1.png)
+![](public/assets/img/login-2.png)
+![](public/assets/img/login-3.png)
 ![](public/assets/img/profile.png)
 ![](public/assets/img/logout.png)
+![](public/assets/img/suppliers-getall.png)
+![](public/assets/img/suppliers-create.png)
+![](public/assets/img/suppliers-getone.png)
+![](public/assets/img/suppliers-update.png)
+![](public/assets/img/suppliers-delete.png)
 
 ## Getting Started
 
 # The easiest way to get started is to clone the repository:
 
-git clone https://github.com/ENDERSON-MARIN/LARAVEL-SANCTUM-API-AUTH
+git clone https://github.com/ENDERSON-MARIN/LARAVEL9-SANCTUM-API
 
 # Change directory and open in the text editor
 
@@ -62,6 +73,10 @@ you need to install following software
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Web Site:
+## Portfolio:
+
+-   https://portafolio-react-enderson-marin.vercel.app/
+
+## Web Site(in develop):
 
 -   https://www.marinenderson.com/
